@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167669758883",
+    "project_id": "izazulemail",
+    "storage_bucket": "izazulemail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167669758883:android:7f253758a99f2ca992b816",
+        "android_client_info": {
+          "package_name": "com.example.email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167669758883-8bgvu93finlm4qnsngf92ah6ufr53u2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxBN1mTApsmD34qFpNUAdiaXiGfe_gblc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167669758883-8bgvu93finlm4qnsngf92ah6ufr53u2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
